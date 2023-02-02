@@ -26,12 +26,13 @@ nav{
 }
 #main-section{
     padding-left: 100px;
-    display: flex; 
+     
     margin:  100px auto;  
     width: 85%;
     height: 600px;
 }
  .co_section{
+     display: inline-block;
     height: 100%;
     width: 30%;
 }
